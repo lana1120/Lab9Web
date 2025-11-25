@@ -219,8 +219,8 @@ class Database {
     }
 }
 ```
+<img width="1408" height="786" alt="Cuplikan layar 2025-11-25 071128" src="https://github.com/user-attachments/assets/ce9f9010-1662-4642-b4c6-7f3761f8e0ff" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-11-24 184839" src="https://github.com/user-attachments/assets/86bbea1f-dbe2-4953-bd56-96bf4cf1e7e5" />
 
 # Flow Request-Response:
 1. **User** mengakses URL: `http://localhost/project/user/list`
