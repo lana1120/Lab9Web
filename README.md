@@ -1,7 +1,7 @@
 # Lab9Web
 # lab9_php_modular
 
-# *Nama : Maulana Malik Ibrahim
+# *Nama : Maulana Malik Ibrahim*
 # *Nim  : 312410185*
 # *Kelas: TI.24.A2*
 
