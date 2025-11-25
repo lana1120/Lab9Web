@@ -27,7 +27,7 @@ project/
     └── js/
 ```
 
-# istem Routing yang Diimplementasi
+# sistem Routing yang Diimplementasi
 
 **1. Front Controller Pattern** 
 
